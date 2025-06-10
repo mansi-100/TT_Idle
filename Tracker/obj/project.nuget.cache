@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DojD4sL1lu0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chint\\Desktop\\OwnProjs\\TT_Idle\\TT_Idle\\Tracker\\Tracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chint\\.nuget\\packages\\system.io.pipelines\\9.0.5\\system.io.pipelines.9.0.5.nupkg.sha512",
+    "C:\\Users\\chint\\.nuget\\packages\\system.net.http.json\\9.0.5\\system.net.http.json.9.0.5.nupkg.sha512",
+    "C:\\Users\\chint\\.nuget\\packages\\system.text.encodings.web\\9.0.5\\system.text.encodings.web.9.0.5.nupkg.sha512",
+    "C:\\Users\\chint\\.nuget\\packages\\system.text.json\\9.0.5\\system.text.json.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

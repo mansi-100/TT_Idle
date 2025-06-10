@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TT_Idle\\TT_Idle.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Tracker\\Tracker.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
